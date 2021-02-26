@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://cdn-learn.adafruit.com/guides/cropped_images/000/002/774/medium640/4393_top_lit_ORIG_2019_10.jpg?1571856589">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/alefuedev/Pihole/main/images/pihole.jpg">
 </p>  
 
 # PiHole Raspeberry Pi Zero W
